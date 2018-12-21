@@ -1,0 +1,19 @@
+{
+  "name": "citesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "git diff-index --quiet HEAD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddeath/citesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddeath/citesting/issues"
+  },
+  "homepage": "https://github.com/ddeath/citesting#readme"
+}
