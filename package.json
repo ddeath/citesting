@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "git diff --exit-code --name-only HEAD"
+    "test": "echo aa > README.md && git diff --exit-code --name-only HEAD"
   },
   "repository": {
     "type": "git",
