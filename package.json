@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "touch test.log && git diff-index --quiet HEAD"
+    "test": "touch test.log && git status && git diff-index --quiet HEAD"
   },
   "repository": {
     "type": "git",
