@@ -12,9 +12,9 @@ Example:
 Please include screenshot (if static change) or gif (animation / non static change) which shows the change.
 
 You can use:
-* (giphy)[https://giphy.com/apps/giphycapture] (on mac)
-* (peek)[https://github.com/phw/peek] (on linux - gnome)
-* (screentogif) [https://www.screentogif.com/] (on windows)
+* [giphy](https://giphy.com/apps/giphycapture) (on mac)
+* [peek](https://github.com/phw/peek) (on linux - gnome)
+* [screentogif](https://www.screentogif.com) (on windows)
 
 - [ ] Has visual changes
 
